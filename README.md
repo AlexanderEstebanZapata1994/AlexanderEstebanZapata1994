@@ -36,7 +36,7 @@ Always building, refactoring, or exploring new tech. Drop a line if you want to 
 
 ### DevOps & Tools
 <span>
-  <img src="https://skillicons.dev/icons?i=git,ubuntu,docker,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=git,aws,githubactions" />
 </span>
 
 ---
@@ -44,13 +44,13 @@ Always building, refactoring, or exploring new tech. Drop a line if you want to 
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gianguyen1234&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianguyen1234&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexanderestebanzapata1994&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderestebanzapata1994&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=Gianguyen1234&theme=radical&hide_border=true&random=123" />
+<img src="https://streak-stats.demolab.com?user=alexanderestebanzapata1994&theme=radical&hide_border=true&random=123" />
 
 </div>
