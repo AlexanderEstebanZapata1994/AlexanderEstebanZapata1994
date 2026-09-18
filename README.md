@@ -11,6 +11,15 @@
 - ✉️ Contact me at alexanderesteban7@gmail.com
 - 🤝 Open to collaborating on projects.
 
+
+## Portfolio projects
+
+### Movies Portfolio 🎬
+
+[![Code](https://img.shields.io/badge/Github-Code-red?style=for-the-badge&logo=github)](https://github.com/AlexanderEstebanZapata1994/movie-portfolio-react)
+[![Live Showcase](https://img.shields.io/badge/Live-Showcase-blueviolet?style=for-the-badge)](https://movie-portfolio-react.vercel.app/)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://movie-portfolio-react.vercel.app/)
+
 ## Tech Stack
 
 ### Frontend Magic 🖌️
@@ -25,7 +34,7 @@
 
 ### DevOps & Tools 🧰
 <span>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git,vercel" />
 </span>
 
 ### Coming soon 🌟
