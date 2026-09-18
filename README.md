@@ -5,12 +5,12 @@
 </p>
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexander Esteban 
----
 
 - 📍 I'm based in Colombia 🇨🇴
 - ✉️ Contact me at alexanderesteban7@gmail.com
 - 🤝 Open to collaborating on projects.
 
+[![](https://komarev.com/ghpvc/?username=alexanderestebanzapata1994)](https://komarev.com/ghpvc/?username=alexanderestebanzapata1994)
 
 ## Portfolio projects
 
@@ -42,4 +42,13 @@
   <img src="https://skillicons.dev/icons?i=azure,docker,githubactions" />
 </span>
 
----
+## Let's get in touch
+
+<a href="mailto:alexanderesteban7@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/alexander-esteban-zapata/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+
